@@ -15,7 +15,7 @@ ImaGEN is my first project developed with NiceGUI. It is an application that use
 
 ### Screenshots
 
-_Insert some screenshots here to demonstrate how ImaGEN's interface looks in action._
+![Image](./Completed/ImaGEN/Result.png)
 
 ### Installation
 
