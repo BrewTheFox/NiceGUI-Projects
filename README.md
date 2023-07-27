@@ -26,6 +26,10 @@ To run ImaGEN, you need to have Python installed on your system, and then follow
 ```bash
 pip install -r requirements.txt
 ```
+3. Run ImaGEN
+```bash
+python ImaGEN.py
+```
 ---
 ### WhisperGUI
 
