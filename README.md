@@ -27,6 +27,6 @@ To run ImaGEN, you need to have Python installed on your system, and then follow
 pip install -r requirements.txt
 ```
 ---
-### IOS Recognize
+### WhisperGUI
 
 WIP
