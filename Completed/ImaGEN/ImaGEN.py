@@ -96,6 +96,6 @@ def HomePage():
             ui.button('Describir', on_click=lambda:describir(name["download_url"])).classes("gradient-text")
             ui.button('Imagen a Base64', on_click=lambda:b64(fondo.url)).classes("gradient-text")
             ui.button('Cambiar', on_click=lambda:EjecutarJS('location.reload()')).style('flat style="color: #FF0080"')
-        ui.label("Artic Systems").classes("gradient-text text-lg")
+        ui.label("Arctic Softworks").classes("gradient-text text-lg")
 
 ui.run(dark=True)
