@@ -1,8 +1,4 @@
-## NiceGUI Projects
-
-This repository contains all the projects created and to be created using the NiceGUI library in Python. NiceGUI is a library that facilitates the creation of simple and attractive graphical interfaces.
-
-### ImaGEN
+## ImaGEN
 
 ImaGEN is my first project developed with NiceGUI. It is an application that uses an API to fetch random images and display them in a graphical interface.
 
