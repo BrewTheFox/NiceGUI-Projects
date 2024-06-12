@@ -30,7 +30,3 @@ pip install -r requirements.txt
 ```bash
 python ImaGEN.py
 ```
----
-### WhisperGUI
-
-WIP
