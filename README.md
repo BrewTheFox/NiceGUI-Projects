@@ -6,7 +6,7 @@ ImaGEN is my first project developed with NiceGUI. It is an application that use
 
 - Fetching random images: ImaGEN connects to an image API and downloads a random image each time the application is executed.
 - Intuitive graphical interface: The user interface is simple and user-friendly, allowing users to interact with the application seamlessly.
-- Included Image Caption AI Model
+- Included Image Caption AI Model.
 - Image display: Downloaded images are elegantly displayed in the graphical interface.
 
 ### Screenshots
