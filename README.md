@@ -26,4 +26,4 @@ pip install -r requirements.txt
 ```bash
 python ImaGEN.py
 ```
-THIS IS DEPRECATED AND NOT UPDATED!!
+THIS IS DEPRECATED AND NOT UPDATED!!!
