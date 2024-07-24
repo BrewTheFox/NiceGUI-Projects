@@ -1,6 +1,6 @@
 ## ImaGEN
 
-ImaGEN is my first project developed with NiceGUI. It is an application that uses an API to fetch random images and display them in a graphical interface.
+ImaGEN was my first project developed with NiceGUI. It is an application that uses an API to fetch random images and display them in a graphical interface.
 
 **Key Features:**
 
